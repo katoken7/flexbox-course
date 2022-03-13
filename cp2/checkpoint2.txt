@@ -1,0 +1,18 @@
+Check Point 2
+
+Task Two
+https://timmyomahony.com/
+color: rgba(43,43,43,var(--text-opacity));
+border: 0 solid #e2e8f0;
+
+Task Three & Task Four
+
+		YouTube
+		(Who)
+Creater				Viewer
+		(Objective)
+Earn$, marketing, communicate	Enjoy, learn, kill time, communicate
+		(Way)
+Create, edit, post contents	Watch, listen, subscribe, comments
+		(How)
+Computers,  Camera, Speaker	PC, TV, Smartphone
